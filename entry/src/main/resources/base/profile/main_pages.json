@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/HomeGoodsDetailsPage",
+    "pages/PersonPage",
+    "pages/PersonDetailsPage"
+  ]
+}
